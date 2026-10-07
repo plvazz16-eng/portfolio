@@ -37,4 +37,4 @@ simulador-fisica/
 ├── tests/
 │   └── tests_projectile.py
 │
-└── README.md
+└── README.mdcd C:\Users\Camille\GitHub\portfolio
